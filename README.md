@@ -2,7 +2,7 @@
 a gentoo repo for packages that aren't in the official repos
 
 # How to use
-if you want to use overlay, install 'app-eselect/eselect-repository', add the overlay and sync the repository.
+if you want to use this overlay, install 'app-eselect/eselect-repository', add the overlay and sync the repository.
 
 ```
 emerge -a app-eselect/eselect-repository
