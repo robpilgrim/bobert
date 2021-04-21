@@ -14,5 +14,7 @@ emaint sync -r bobert
 
 ## List of Packages
 - [app-misc/dragon](https://github.com/mwh/dragon)
+- [app-misc/pfetch](https://github.com/dylanaraps/pfetch)
+
 
 
